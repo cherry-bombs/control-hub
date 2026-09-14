@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'org.jetbrains.kotlin.android'
 
 //
 // build.gradle in TeamCode
@@ -21,6 +22,10 @@ android {
 
     packagingOptions {
         jniLibs.useLegacyPackaging true
+    }
+    
+    kotlinOptions {
+        jvmTarget = '1.8'
     }
 }
 
