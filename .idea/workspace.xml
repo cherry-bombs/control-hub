@@ -5,98 +5,119 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456ba97d-5542-4039-92f4-6cc621b1be4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Control_Hub_24409_RC_1_7_2026_15_20_51_543_revbkp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Control_Hub_24409_RC_1_7_2026_15_20_51_543_revbkp.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Control_Hub_24409_RC_1_7_2026_17_13_35_983_revbkp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Control_Hub_24409_RC_1_7_2026_17_13_35_983_revbkp.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/Camera.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/Control Hub 24409-RC_1-7-2026-15.20.51.543.revbkp.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/Control HubManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/Omni4Wheel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/Automation.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/Automation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/Camera April Tag Rec..blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/Camera April Tag Rec..js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/Camera Pixel Rec..blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/Camera Pixel Rec..js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/auto test.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/auto test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/bank test.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/bank test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/test.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/blocks/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/ClawTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/ConceptAprilTag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/ConceptAprilTagEasy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/ConceptTensorFlowObjectDetection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/ConceptTensorFlowObjectDetectionEasy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/TelemetryDetect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/capCamera.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-2024 Archive/java/src/org/firstinspires/ftc/teamcode/originalOmniWheelDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control Hub 24409-RC_1-7-2026-17.13.35.983.revbkp.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control HubManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Noah's mecanum wheel drive" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOmniOpMode_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTagEasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTagLocalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTagMultiPortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTagOptimizeExposure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTagSwitchableCameras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptBlackboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptExploringIMUOrientation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptGamepadEdgeDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptGamepadRumble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptGamepadTouchpad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptLEDStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptMotorBulkRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptNullOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRampMotorSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRevLED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRevSPARKMini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptScanServo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsASJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsOnBotJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsSKYSTONE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTelemetry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVisionColorLocator_Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVisionColorLocator_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVisionColorSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotAutoDriveByEncoder_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotAutoDriveByGyro_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotAutoDriveByTime_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotAutoDriveToAprilTagOmni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotAutoDriveToAprilTagTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotAutoDriveToLine_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotTeleopMecanumFieldRelativeDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotTeleopPOV_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotTeleopTank_Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SampleRevBlinkinLedDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorAndyMarkIMUNonOrthogonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorAndyMarkIMUOrthogonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorAndyMarkTOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorBNO055IMU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorBNO055IMUCalibration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorDigitalTouch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorGoBildaPinpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorHuskyLens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorIMUNonOrthogonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorIMUOrthogonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorKLNavxMicro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorLimelight3A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRGyro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMROpticalDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRRangeSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorOctoQuad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorOctoQuadAdv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorOctoQuadLocalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorREV2mDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorSparkFunOTOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorTouch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/UtilityCameraFrameCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/UtilityOctoQuadConfigMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/externalhardware/ConceptExternalHardwareClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/externalhardware/RobotHardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/sample_conventions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/utilities/UtilityTestGamepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/utilities/UtilityTestHardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/PermissionValidatorWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-xhdpi/icon_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-xhdpi/icon_robotcontroller.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/raw/gold.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/raw/silver.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/xml/app_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/xml/device_filter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/lib/OpModeAnnotationProcessor.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/main/res/raw/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.common.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.dependencies.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/legal/AudioBlocksSounds.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/legal/Exhibit A - LEGO Open Source License Agreement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/legal/LEGO Open Source License.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/media/PullRequest.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/ftc.debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/12b. Bottom to Up.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/12b. Bottom to Up.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/12b.d25 Bottom to Up.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/12b.d25 Bottom to Up.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/1a. Bottom Left to Left.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/1a. Bottom Left to Left.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/1a.d25 Bottom Left to Left.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/1a.d25 Bottom Left to Left.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/2a. Bottom Right to Right.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/2a. Bottom Right to Right.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/2a.d25 Bottom Right to Right.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/2a.d25 Bottom Right to Right.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/3a. Top Right to Down.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/3a. Top Right to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/3a.d25 Top Right to Down.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/3a.d25 Top Right to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/3b. Top Right to Down + Score 3.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/3b. Top Right to Down + Score 3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/4a. Top Left to Down.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/4a. Top Left to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/4a.d25 Top Left to Down.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/4a.d25 Top Left to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/BottomAOM.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/BottomAOM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/Drive.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/Drive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/GameDrive.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/GameDrive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/IntakeOuttakeTOM.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/IntakeOuttakeTOM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/ShootAOM.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/ShootAOM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/TankDrive.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/TankDrive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/servo test.blk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks (ARCHIVE DO NOT USE)/servo test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-shortcut" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/AprilTagWebcamExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/AprilTagWebcamExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/12b. Bottom to Up.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/12b.d25 Bottom to Up.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/1a. Bottom Left to Left.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/1a.d25 Bottom Left to Left.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/2a. Bottom Right to Right.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/2a.d25 Bottom Right to Right.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/3a. Top Right to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/3a.d25 Top Right to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/3b. Top Right to Down + Score 3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/4a. Top Left to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/4a.d25 Top Left to Down.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/BottomAOM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/auton/ShootAOM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/bench/PowerChanging.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/bench/servo-positioning-binary-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/bench/servo-positioning-brute-force.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/teleop/drive-old.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/teleop/game-drive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/org/firstinspires/ftc/teamcode/teleop/tank-drive.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,10 +130,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JIjhFQwrr45Ax9U4uPwIFoSjsb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -127,7 +148,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/mateo/git/revcontrol-hub",
     "settings.editor.selected.configurable": "preferences.keymap"
