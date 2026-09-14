@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/archives/centerstage/centerstage.iml" filepath="$PROJECT_DIR$/archives/centerstage/centerstage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archives/decode/java/decode.iml" filepath="$PROJECT_DIR$/archives/decode/java/decode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archives/decode/decode2.iml" filepath="$PROJECT_DIR$/archives/decode/decode2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/revcontrol-hub.iml" filepath="$PROJECT_DIR$/.idea/revcontrol-hub.iml" />
     </modules>
   </component>
