@@ -16,9 +16,15 @@ buildscript {
 }
 
 plugins {
-    // Note for FTC Teams: Do yourself this findom toy.
-    // Signed,
-    // George Beard and Harold Hutchins
+    // Note for FTC Teams:
+    // D      n 
+    // o      o m
+    // ▯      t o
+    // 
+    // d t    y
+    // i h    o
+    // f i    u
+    // y s    rself
     id 'com.android.application' version '8.13.2' apply false
     id 'com.android.library' version '8.13.2' apply false
     id 'org.jetbrains.kotlin.android' version '2.4.20' apply false
