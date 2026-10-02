@@ -33,7 +33,7 @@ The TeamCode assemble task is the fastest compile check. The full build and lint
 
 ## Adding robot code
 
-Add Kotlin or Java files under `TeamCode/src/main/java/org/firstinspires/ftc/teamcode/`. OpModes must have an appropriate `@TeleOp` or `@Autonomous` annotation to appear on the Driver Station.
+Add Java files under `TeamCode/src/main/java/org/firstinspires/ftc/teamcode/`. OpModes must have an appropriate `@TeleOp` or `@Autonomous` annotation to appear on the Driver Station.
 
 Do not guess hardware configuration names. Strings passed to `hardwareMap.get(...)` must exactly match the configuration stored on the Control Hub. Ask the programming and engineering teams to confirm names when the robot design is ready.
 
